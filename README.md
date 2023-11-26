@@ -2,7 +2,7 @@
 <img src="https://github.com/Ueliton-veloso/to-do-list/assets/101071189/6f0c8db3-6598-4aca-9ac0-6d2cb3a09379">
 Welcome to the To-Do List project! This web application is a simple tool for managing your tasks. Built with pure HTML, CSS, and JavaScript, our to-do list offers a clean and intuitive interface, making it easy to add, complete, edit and delete tasks.
 
-[ click here ](https://ueliton-veloso.github.io/to-do-list/) 
+[ CLICK HERE ](https://ueliton-veloso.github.io/to-do-list/) 
 to see the project.
 
 ## Features
