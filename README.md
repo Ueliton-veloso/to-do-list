@@ -13,7 +13,7 @@ Welcome to the To-Do List project! This web application is a simple tool for man
 ## Getting Started
 To use the application, simply clone the repository and open the index.html file in your preferred web browser. No additional dependencies or installations are required.
 
-    git clone https://github.com/Ueliton-veloso/todo-list.git
+    git clone https://github.com/Ueliton-veloso/to-do-list.git
     cd todo-list
 
 
