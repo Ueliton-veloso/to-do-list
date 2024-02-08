@@ -5,6 +5,8 @@ let modal = document.getElementById("modal");
 let modalText = document.getElementById("myTextarea");
 const buttonCloseModal = document.querySelector("dialog button");
 let mainContentBody = document.querySelector("body");
+let listTask = [];
+let checkList = [];
 addTask.addEventListener("click", addNewTask);
 
 
@@ -35,8 +37,7 @@ const getCurrentTime = () => {
     
 
 
-let listTask = [];
-let checkList = [];
+
 
 function addNewTask(){
     const inputTask = document.querySelector(".input > input");
